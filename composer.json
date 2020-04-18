@@ -1,0 +1,26 @@
+{
+    "name": "waygou/website",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hamed sh",
+            "email": "megahamed22@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Waygoy\\Website\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Waygoy\\Website\\Providers\\WebsiteServiceProvider"
+            ]
+        }
+    }
+}
