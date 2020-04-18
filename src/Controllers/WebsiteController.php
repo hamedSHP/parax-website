@@ -1,6 +1,6 @@
 <?php
 
-namespace Waygou\Website\Controllers;
+namespace Parax\Website\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

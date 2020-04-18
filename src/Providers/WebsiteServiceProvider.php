@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Waygou\Website\Providers;
+namespace Parax\Website\Providers;
 
 
 use Illuminate\Support\ServiceProvider;

@@ -1,5 +1,5 @@
 {
-    "name": "megahamed22/website",
+    "name": "parax/website",
     "description": "test",
     "type": "library",
     "license": "MIT",
@@ -13,13 +13,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Waygoy\\Website\\": "src/"
+            "Parax\\Website\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Waygoy\\Website\\Providers\\WebsiteServiceProvider"
+                "Parax\\Website\\Providers\\WebsiteServiceProvider"
             ]
         }
     }
